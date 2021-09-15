@@ -1,4 +1,4 @@
-##### As part of the project, I will live through various scenarios that a PM typically faces or is expected to carry out during the development phase:
+##### As part of the project, I will live through various scenarios that a Product Manager typically faces or is expected to carry out during the development phase:
 
 ###### 1- Create a project blueprint that can be used by me or the involved stakeholders to understand their role, task and targeted milestone.
 ###### 2- Plan for a sprint meeting to ensure that the team can understand and focus on the deliverable.
